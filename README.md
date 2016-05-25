@@ -1,2 +1,2 @@
 # hello-world
-first
+Hello, this is my first project, quiet fucking weird.
